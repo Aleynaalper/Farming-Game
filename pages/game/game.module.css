@@ -1,0 +1,38 @@
+.container {
+  margin-left: 25%;
+  display: grid;
+  grid-template-columns: repeat(4, 100px);
+  gap: 10px;
+  padding-top: 60px;
+
+}
+
+.box {
+  width: 100px;
+  height: 100px;
+  background-color: #967969;
+  color: aliceblue;
+  border-radius: 7px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 24px;
+  cursor: pointer;
+}
+
+.balance {
+  color: #574034;
+  padding: 15px 5px;
+  width: 200px;
+  background-color: #fac8d1;
+  border: 2px solid #d7b5ba;
+  border-radius: 5px;
+}
+
+.background {
+  padding-bottom: 140px; 
+  padding-right: 120px;
+  width: 45%;
+  height: 80%;
+  background-color: #fff0f5;
+}

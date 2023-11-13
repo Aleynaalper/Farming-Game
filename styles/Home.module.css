@@ -1,0 +1,25 @@
+.forms {
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+  border-radius: 20px;
+  margin-left: 15%;
+  margin-top: 20%;
+}
+
+.page{
+  color: #574034;
+  padding-top: 30px;
+  padding-bottom: 120px; 
+  padding-right: 128px;
+  width: 45%;
+  background-color: #fff0f5;
+}
+
+.page p{
+  font-size: 60px;
+  font-weight: bold;
+  text-align: center;
+  margin-left: 90px;  
+}
+
